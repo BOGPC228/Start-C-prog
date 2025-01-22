@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCEB52DD-16E8-415E-A824-D0FD339E8070}|Part 6\\Part 6.vcxproj|D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6\\Part 6\\Part 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BCEB52DD-16E8-415E-A824-D0FD339E8070}|Part 6\\Part 6.vcxproj|solutionrelative:Part 6\\Part 6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Part 6.cpp",
+              "DocumentMoniker": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6\\Part 6\\Part 6.cpp",
+              "RelativeDocumentMoniker": "Part 6\\Part 6.cpp",
+              "ToolTip": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6\\Part 6\\Part 6.cpp*",
+              "RelativeToolTip": "Part 6\\Part 6.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-19T22:25:55.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

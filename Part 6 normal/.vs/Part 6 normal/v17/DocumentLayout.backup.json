@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6 normal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494EBE1F-A13F-4325-AE1C-0C52C9B0E80B}|Part 6 normal\\Part 6 normal.vcxproj|D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6 normal\\Part 6 normal\\Part 6 normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{494EBE1F-A13F-4325-AE1C-0C52C9B0E80B}|Part 6 normal\\Part 6 normal.vcxproj|solutionrelative:Part 6 normal\\Part 6 normal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Part 6 normal.cpp",
+              "DocumentMoniker": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6 normal\\Part 6 normal\\Part 6 normal.cpp",
+              "RelativeDocumentMoniker": "Part 6 normal\\Part 6 normal.cpp",
+              "ToolTip": "D:\\C \u043D\u0430\u0447\u0430\u043B\u043E\\Part 6 normal\\Part 6 normal\\Part 6 normal.cpp",
+              "RelativeToolTip": "Part 6 normal\\Part 6 normal.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T07:01:07.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
